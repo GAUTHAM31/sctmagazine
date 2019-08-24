@@ -162,3 +162,25 @@
   display: inline-block;
   font-family: Cardo;
 }
+
+
+/* Button */
+.btn {
+  border: 2px solid black;
+  background-color: transparent;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Blue */
+.info {
+  border-color: white;
+  color: white
+}
+
+.info:hover {
+  background: white;
+  color: black;
+}
